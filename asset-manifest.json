@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jeffpestcontrol/static/css/main.ce45383d.css",
+    "main.js": "/jeffpestcontrol/static/js/main.cf31d64d.js",
+    "index.html": "/jeffpestcontrol/index.html",
+    "main.ce45383d.css.map": "/jeffpestcontrol/static/css/main.ce45383d.css.map",
+    "main.cf31d64d.js.map": "/jeffpestcontrol/static/js/main.cf31d64d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce45383d.css",
+    "static/js/main.cf31d64d.js"
+  ]
+}
