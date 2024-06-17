@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Pesttest/static/css/main.c69b1e3e.css",
+    "main.css": "/Pesttest/static/css/main.99a1a014.css",
     "main.js": "/Pesttest/static/js/main.69921b3b.js",
     "index.html": "/Pesttest/index.html",
-    "main.c69b1e3e.css.map": "/Pesttest/static/css/main.c69b1e3e.css.map",
+    "main.99a1a014.css.map": "/Pesttest/static/css/main.99a1a014.css.map",
     "main.69921b3b.js.map": "/Pesttest/static/js/main.69921b3b.js.map"
   },
   "entrypoints": [
-    "static/css/main.c69b1e3e.css",
+    "static/css/main.99a1a014.css",
     "static/js/main.69921b3b.js"
   ]
 }
